@@ -61,6 +61,7 @@ body{
 .card:hover{
     transform: scale(1.05);
     box-shadow: 2px 0px 1px 0px var(--basic-text-color);
+
     cursor: pointer;
 }
 #link:hover{
